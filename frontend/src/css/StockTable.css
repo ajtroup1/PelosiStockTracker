@@ -1,0 +1,23 @@
+.stocks-table-container {
+  width: 90%;
+  height: 39vh;
+  margin: 1% auto;
+  background-color: rgba(255, 255, 255, 0.7); /* Hazy white background */
+  border: 8px solid rgba(0, 0, 0, 0.5); /* Pronounced shadowy border */
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  overflow-y: auto; /* Make the container scrollable vertically */
+}
+
+#link {
+  color: blue; /* Set the text color to blue */
+  text-decoration: underline; /* Add underline to mimic link style */
+  cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+#stock-table-picture {
+  height: 70px;
+  width: auto;
+}

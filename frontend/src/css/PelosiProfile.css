@@ -1,0 +1,45 @@
+.pelosi-profile-container {
+  width: 30%;
+  height: 35vh;
+  background-color: rgba(255, 255, 255, 0.7); /* Hazy white background */
+  border: 8px solid rgba(0, 0, 0, 0.5); /* Pronounced shadowy border */
+  border-radius: 10px; /* Rounded corners */
+  margin-left: 5%;
+  margin-top: 2%;
+  position: relative;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Shadow effect */
+  display: flex;
+}
+
+#pelosi-pic {
+  width: 170px;
+  height: auto;
+  margin-left: 3%;
+  margin-top: 33.5%;
+}
+
+.info-container {
+  position: relative;
+  margin-left: 10%;
+  font-size: larger;
+  margin-top: 6%;
+}
+
+.update-container {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  width: 13%;
+}
+
+.update-text {
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+#update-icon {
+  width: 30px;
+  height: 30px;
+}

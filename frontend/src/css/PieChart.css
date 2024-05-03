@@ -1,0 +1,23 @@
+.pie-container {
+  position: fixed;
+  width: 20%;
+  height: 35vh;
+  left: 47.5%;
+  margin-top: -15.9%;
+  transform: translateX(-50%);
+  background-color: rgba(255, 255, 255, 0.7); /* Hazy white background */
+  border: 8px solid rgba(0, 0, 0, 0.5); /* Pronounced shadowy border */
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.pie-chart-container {
+  width: 100%;
+  height: 70%;
+  margin-top: 60px;
+}
+
+.line-head-pie {
+  margin-top: 3%;
+}

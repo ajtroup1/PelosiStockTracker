@@ -1,0 +1,7 @@
+.show-more-main {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #34495e;
+    z-index: 3;
+}
